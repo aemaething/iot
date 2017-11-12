@@ -1,0 +1,10 @@
+/be/.idea
+/be/target/
+/be/**/*.rs.bk
+.DS_Store
+.thumbs.db
+/fe/node_modules/
+/fe/dist/
+/fe/npm-debug.log*
+/fe/cordova/platforms
+/cordova/plugins
